@@ -8,7 +8,9 @@
 
 <div align="center">
   <p align="center">
-    Um desenvolvedor back-end e entusiasta de automação, sempre explorando o universo do código para criar soluções eficientes e criativas.
+    <strong>Desenvolvedor Back-end | Entusiasta de Automação & Inovação</strong>
+    <br />
+    Sou movido pela curiosidade e pela busca incessante de conhecimento. Acredito que a tecnologia é a ferramenta mais poderosa para resolver problemas e estou sempre mergulhando em novas áreas para construir soluções criativas e eficientes.
   </p>
 </div>
 
@@ -42,6 +44,18 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       </a>
       <br>Node.js
@@ -52,17 +66,11 @@
       </a>
       <br>Git
     </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
-    </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" />
-      </a>
-      <br>VSCode
     </td>
   </tr>
 </table>
@@ -86,8 +94,8 @@
 </td>
 <td width="50%" align="center">
   <div align="center">
-    <h3>🤖 CHAIN-BOT (Em Breve)</h3>
-    <p>Meu próximo projeto! Um bot multifuncional para Discord/Telegram com foco em automação e gerenciamento de comunidades.</p>
+    <h3>🤖 Bot para WhatsApp (CHAIN-BOT)</h3>
+    <p>Meu foco atual: um bot para WhatsApp que utiliza IA para automatizar conversas e tarefas. Outras plataformas em breve!</p>
     <div align="center">
       <img src="https://img.shields.io/badge/Em%20Desenvolvimento-grey?style=for-the-badge" alt="Em Desenvolvimento">
     </div>
