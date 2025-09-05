@@ -80,7 +80,7 @@
 ### 📫 Conecte-se comigo
 
 <p align="center">
-  <a href="mailto:mauriciosalesdefarias05@gmail.com">
+  <a href="mailto:pensamentosneutros@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mauricio-sales-de-farias-973300269" target="_blank">
