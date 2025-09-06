@@ -36,10 +36,11 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🐍 Snake Game no Terminal</h3>
       <p align="center">
-        Uma implementação do clássico jogo da cobrinha, desenvolvido para ser executado diretamente no terminal. Um projeto divertido para praticar lógica e manipulação de console com Python puro.
+        Uma implementação do clássico jogo da cobrinha, desenvolvido para ser executado diretamente no terminal.  
+        Projeto divertido para praticar lógica e manipulação de console com Python puro.
         <br/><br/>
         <a href="https://github.com/wallax0x/Snake-game" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github"/>
@@ -49,7 +50,7 @@
         <img src="https://img.shields.io/badge/Status-Finalizado-green?style=flat"/>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🤖 Chain Bot (WhatsApp IA)</h3>
       <p align="center">
         Um bot avançado para WhatsApp projetado para automatizar conversas e executar tarefas complexas através da integração com modelos de Inteligência Artificial.
@@ -63,8 +64,25 @@
         <img src="https://img.shields.io/badge/Status-Concluído-blue?style=flat"/>
       </p>
     </td>
+    <td width="33%" valign="top">
+      <h3 align="center">☕ Cafe Website</h3>
+      <p align="center">
+        Um site moderno e responsivo para cafeterias e padarias, desenvolvido apenas com HTML, CSS e Bootstrap.  
+        Simples de personalizar e ideal como modelo de apresentação online.
+        <br/><br/>
+        <a href="https://github.com/wallax0x/cafe-website" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Status-Finalizado-green?style=flat"/>
+      </p>
+    </td>
   </tr>
 </table>
+
 
 ---
 
