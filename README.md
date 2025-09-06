@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre Mim
 
-<p align="left">
+<p align="center">
   Sou um desenvolvedor Back-end e entusiasta de automação, focado em transformar problemas complexos em soluções de software elegantes e eficientes. Minha paixão é criar sistemas robustos e escaláveis, explorando constantemente novas tecnologias para entregar o melhor resultado possível.
 </p>
 
