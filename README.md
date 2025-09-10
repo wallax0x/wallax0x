@@ -36,7 +36,7 @@
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3 align="center">🐍 Snake Game no Terminal</h3>
       <p align="center">
         Uma implementação do clássico jogo da cobrinha, desenvolvido para ser executado diretamente no terminal.  
@@ -50,7 +50,7 @@
         <img src="https://img.shields.io/badge/Status-Finalizado-green?style=flat"/>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3 align="center">🤖 Chain Bot (WhatsApp IA)</h3>
       <p align="center">
         Um bot avançado para WhatsApp projetado para automatizar conversas e executar tarefas complexas através da integração com modelos de Inteligência Artificial.
@@ -64,7 +64,7 @@
         <img src="https://img.shields.io/badge/Status-Concluído-blue?style=flat"/>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3 align="center">☕ Cafe Website</h3>
       <p align="center">
         Um site moderno e responsivo para cafeterias e padarias, desenvolvido apenas com HTML, CSS e Bootstrap.  
@@ -80,8 +80,23 @@
         <img src="https://img.shields.io/badge/Status-Finalizado-green?style=flat"/>
       </p>
     </td>
+    <td width="25%" valign="top">
+      <h3 align="center">📰 WhatsNews Bot</h3>
+      <p align="center">
+        Bot em Python para buscar notícias em tempo real e entregá-las automaticamente em grupos do WhatsApp de forma agendada e personalizada.
+        <br/><br/>
+        <a href="https://github.com/wallax0x/bot_noticias" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=flat"/>
+      </p>
+    </td>
   </tr>
 </table>
+
 
 
 ---
