@@ -90,13 +90,13 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+---
 
+## 🚀✨ Minhas Estatísticas no GitHub
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wallax0x&theme=react-dark&hide_border=true&line=4FC3F7&point=29B6F6&area=true&area_color=4FC3F780" alt="Gráfico de Atividade de wallax0x"/>
-</div>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wallax0x&theme=react-dark&hide_border=true&line=4FC3F7&point=29B6F6&area=true&area_color=4FC3F780" alt="Gráfico de Atividade de wallax0x" width="95%"/>
+</p>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallax0x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -105,7 +105,7 @@
 
 ---
 
-### 📫 Conecte-se comigo
+## 🌐📫 Onde me encontrar
 
 <p align="center">
   <a href="mailto:pensamentosneutros@gmail.com">
@@ -114,7 +114,9 @@
   <a href="https://www.linkedin.com/in/mauricio-sales-de-farias-973300269" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-<a href="https://wa.me/55997335030" target="_blank">
-  <img src="https://img.shields.io/badge/Fale%20comigo%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
+  <a href="https://wa.me/55997335030" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
+
+---
