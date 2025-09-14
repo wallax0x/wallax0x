@@ -34,70 +34,59 @@
 
 ### 📌 Projetos em Destaque
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
-    <td width="25%" valign="top">
-      <h3 align="center">🐍 Snake Game no Terminal</h3>
-      <p align="center">
-        Uma implementação do clássico jogo da cobrinha, desenvolvido para ser executado diretamente no terminal.  
-        Projeto divertido para praticar lógica e manipulação de console com Python puro.
-        <br/><br/>
-        <a href="https://github.com/wallax0x/Snake-game" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github"/>
-        </a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Status-Finalizado-green?style=flat"/>
+    <td width="50%" valign="top">
+      <h3>🔌 API Validadora de Dados</h3>
+      <p>API RESTful robusta em <strong>Python e Flask</strong> para validar dados brasileiros (CPF/CNPJ) e consultar endereços por CEP, demonstrando lógica de back-end pura e integração com serviços externos.</p>
+      <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+          <img src="https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge" alt="Status"/>
       </p>
+      <a href="https://github.com/wallax0x/api_validadora" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github"/>
+      </a>
     </td>
-    <td width="25%" valign="top">
-      <h3 align="center">🤖 Chain Bot (WhatsApp IA)</h3>
-      <p align="center">
-        Um bot avançado para WhatsApp projetado para automatizar conversas e executar tarefas complexas através da integração com modelos de Inteligência Artificial.
-        <br/><br/>
-        <a href="https://github.com/wallax0x/Chain-Bot" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github"/>
-        </a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/IA-A78BFA?style=flat"/>
-        <img src="https://img.shields.io/badge/Status-Concluído-blue?style=flat"/>
+    <td width="50%" valign="top">
+      <h3>🤖 Chain Bot (WhatsApp IA)</h3>
+      <p>Bot de WhatsApp com <strong>Inteligência Artificial</strong> para automatizar conversas e executar tarefas complexas. Construído com <strong>Node.js</strong> para alta performance em comunicação em tempo real.</p>
+      <p>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+          <img src="https://img.shields.io/badge/IA-A78BFA?style=for-the-badge" alt="IA"/>
+          <img src="https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge" alt="Status"/>
       </p>
+      <a href="https://github.com/wallax0x/Chain-Bot" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github"/>
+      </a>
     </td>
-    <td width="25%" valign="top">
-      <h3 align="center">☕ Cafe Website</h3>
-      <p align="center">
-        Um site moderno e responsivo para cafeterias e padarias, desenvolvido apenas com HTML, CSS e Bootstrap.  
-        Simples de personalizar e ideal como modelo de apresentação online.
-        <br/><br/>
-        <a href="https://github.com/wallax0x/cafe-website" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github"/>
-        </a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Status-Finalizado-green?style=flat"/>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📰 WhatsNews Bot</h3>
+      <p>Bot automatizado em <strong>Python e Selenium</strong> que busca as últimas notícias e as envia de forma agendada para grupos ou contatos no WhatsApp, solucionando a distribuição de conteúdo.</p>
+      <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+          <img src="https://img.shields.io/badge/Status-Em%20Andamento-orange?style=for-the-badge" alt="Status"/>
       </p>
+      <a href="https://github.com/wallax0x/bot_noticias" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github"/>
+      </a>
     </td>
-    <td width="25%" valign="top">
-      <h3 align="center">📰 WhatsNews Bot</h3>
-      <p align="center">
-        Bot em Python para buscar notícias em tempo real e entregá-las automaticamente em grupos do WhatsApp de forma agendada e personalizada.
-        <br/><br/>
-        <a href="https://github.com/wallax0x/bot_noticias" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github"/>
-        </a>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=flat"/>
+    <td width="50%" valign="top">
+      <h3>🐍 Snake Game no Terminal</h3>
+      <p>Implementação do clássico jogo da cobrinha totalmente em <strong>Python puro</strong>, projetado para rodar diretamente no console. Ótimo para praticar lógica de programação e manipulação de terminal.</p>
+      <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge" alt="Status"/>
       </p>
+      <a href="https://github.com/wallax0x/Snake-game" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github"/>
+      </a>
     </td>
   </tr>
 </table>
-
-
 
 ---
 
