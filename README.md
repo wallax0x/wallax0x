@@ -93,7 +93,9 @@
 ---
 
 ## 🚀✨ Minhas Estatísticas no GitHub
-
+<details>
+  <summary>Clique para expandir</summary>
+  <br>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wallax0x&theme=react-dark&hide_border=true&line=4FC3F7&point=29B6F6&area=true&area_color=4FC3F780" alt="Gráfico de Atividade de wallax0x" width="95%"/>
 </p>
@@ -102,6 +104,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallax0x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallax0x&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+
+</details>
 
 ---
 
