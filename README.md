@@ -25,7 +25,7 @@
 ### 🛠️ Habilidades & Ferramentas
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.google.com">
     <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,typescript,bash,postgres,mysql,mongodb,docker,kubernetes,aws,gcp,linux,arch,git,vscode,postman&perline=9" />
   </a>
 </p>
