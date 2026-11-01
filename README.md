@@ -1,10 +1,8 @@
 <div align="center">
-<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=79D8FB&center=true&vCenter=true&width=700&lines=Ol%C3%A1,+eu+sou+Maur%C3%ADcio+(wallax0x);Desenvolvedor+Back-end;Especialista+em+Automa%C3%A7%C3%A3o+%26+Bots" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=79D8FB&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Maurício+(wallax0x);Desenvolvedor+de+Software+|+Back-end;Especialista+em+Automação,+IoT+%26+Linux" alt="Typing SVG">
   </a>
 </div>
-
 
 <br>
 
@@ -13,20 +11,20 @@
 ### 🚀 Sobre Mim
 
 <p align="center">
-  Sou um desenvolvedor Back-end e entusiasta de automação, focado em transformar problemas complexos em soluções de software elegantes e eficientes. Minha paixão é criar sistemas robustos e escaláveis, explorando constantemente novas tecnologias para entregar o melhor resultado possível.
+  Sou um desenvolvedor de software focado em <strong>Back-end, Automação e Edge Computing (IoT)</strong>. Diferente do desenvolvimento tradicional, meu foco é construir sistemas que conectam código de alta performance ao mundo físico — desde a arquitetura de microsserviços em nuvem até a telemetria de sensores no campo.
 </p>
 
-- 🔭 **Atualmente:** Aprimorando minhas habilidades em arquiteturas de microsserviços e orquestração de containers.
-- 🌱 **Aprendendo:** Go (Golang) e Infraestrutura como Código (IaC) com Terraform.
-- 💬 **Fale comigo sobre:** Python, Node.js, Arquitetura de Software, e claro, o universo Linux.
+- 🔭 **Atualmente:** Aprofundando em arquiteturas orientadas a eventos (Node.js/Python), automação de fluxos (n8n) e sistemas embarcados.
+- 🌱 **Explorando:** Infraestrutura Linux avançada (Gentoo/WireGuard) e protocolos de baixa latência (MQTT).
+- 💬 **Fale comigo sobre:** Desenvolvimento Back-end, APIs RESTful, Integração de Hardware (ESP32) e automações complexas.
 
 ---
 
 ### 🛠️ Habilidades & Ferramentas
 
 <p align="center">
-  <a href="https://www.google.com">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,typescript,bash,postgres,mysql,mongodb,docker,kubernetes,aws,gcp,linux,arch,androidstudio,git,vscode,postman&perline=9" />
+  <a href="https://github.com/wallax0x">
+    <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,bash,c,postgres,mongodb,docker,linux,arch,git,vscode,postman&perline=13" />
   </a>
 </p>
 
@@ -37,58 +35,55 @@
 <table width="100%" align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🔌 API Validadora de Dados</h3>
-      <p>API RESTful robusta em <strong>Python e Flask</strong> para validar dados brasileiros (CPF/CNPJ) e consultar endereços por CEP, demonstrando lógica de back-end pura e integração com serviços externos.</p>
+      <h3>🤖 Engine de Automação (Chain Bot)</h3>
+      <p>Arquitetura modular em <strong>Node.js</strong> para automação de atendimento e gerenciamento de grupos no WhatsApp via Baileys API. Foco em mensageria de alta performance e processamento assíncrono.</p>
+      <p>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+          <img src="https://img.shields.io/badge/Status-Ativo-green?style=for-the-badge" alt="Status"/>
+      </p>
+      <a href="https://github.com/wallax0x/Chain-Bot" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔌 API REST Validadora</h3>
+      <p>Microsserviço desenvolvido em <strong>Python e Flask</strong> para validação estrutural de dados (CPF/CNPJ) e roteamento de consultas de CEP. Demonstra isolamento de lógica de negócios e integração de APIs.</p>
       <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
           <img src="https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge" alt="Status"/>
       </p>
       <a href="https://github.com/wallax0x/api_validadora" target="_blank">
         <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Chain Bot (WhatsApp IA)</h3>
-      <p>Bot de WhatsApp com <strong>Inteligência Artificial</strong> para automatizar conversas e executar tarefas complexas. Construído com <strong>Node.js</strong> para alta performance em comunicação em tempo real.</p>
-      <p>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-          <img src="https://img.shields.io/badge/IA-A78BFA?style=for-the-badge" alt="IA"/>
-          <img src="https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge" alt="Status"/>
-      </p>
-      <a href="https://github.com/wallax0x/Chain-Bot" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📰 WhatsNews Bot</h3>
-      <p>Bot automatizado em <strong>Python e Selenium</strong> que busca as últimas notícias e as envia de forma agendada para grupos ou contatos no WhatsApp, solucionando a distribuição de conteúdo.</p>
+      <h3>📡 Telemetria AgroTech & MQTT</h3>
+      <p>Firmware em <strong>C/C++ para ESP32</strong> voltado à leitura de sensores de campo e transmissão de dados em tempo real utilizando broker Mosquitto MQTT. Projetado para baixo consumo de energia e resiliência de rede.</p>
       <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-          <img src="https://img.shields.io/badge/Status-Em%20Andamento-orange?style=for-the-badge" alt="Status"/>
+          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+          <img src="https://img.shields.io/badge/IoT-F29D52?style=for-the-badge" alt="IoT"/>
+          <img src="https://img.shields.io/badge/Status-Em%20breve-orange?style=for-the-badge" alt="Status"/>
       </p>
-      <a href="https://github.com/wallax0x/bot_noticias" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github"/>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Documentação%20em%20breve-181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🐍 Snake Game no Terminal</h3>
-      <p>Implementação do clássico jogo da cobrinha totalmente em <strong>Python puro</strong>, projetado para rodar diretamente no console. Ótimo para praticar lógica de programação e manipulação de terminal.</p>
+      <h3>🛡️ Infraestrutura Linux & Dotfiles</h3>
+      <p>Scripts de automação (Bash) e arquivos de configuração para implantação de ambientes <strong>Gentoo Linux</strong> source-based e túneis seguros ponto-a-ponto com <strong>WireGuard VPN</strong> em servidores remotos.</p>
       <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge" alt="Status"/>
+          <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+          <img src="https://img.shields.io/badge/Status-Em%20breve-orange?style=for-the-badge" alt="Status"/>
       </p>
-      <a href="https://github.com/wallax0x/Snake-game" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github"/>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Repositório%20em%20breve-181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
   </tr>
 </table>
-
----
 
 ---
 
@@ -97,14 +92,13 @@
   <summary>Clique para expandir</summary>
   <br>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wallax0x&theme=react-dark&hide_border=true&line=4FC3F7&point=29B6F6&area=true&area_color=4FC3F780" alt="Gráfico de Atividade de wallax0x" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wallax0x&theme=react-dark&hide_border=true&line=4FC3F7&point=29B6F6&area=true&area_color=4FC3F780" alt="Gráfico de Atividade" width="95%"/>
 </p>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallax0x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallax0x&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
 </details>
 
 ---
@@ -122,5 +116,3 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-
----
