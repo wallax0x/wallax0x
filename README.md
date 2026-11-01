@@ -87,19 +87,31 @@
 
 ---
 
-## 🚀✨ Minhas Estatísticas no GitHub
+
+## 🚀✨ Estatísticas e Contribuições
 <details>
-  <summary>Clique para expandir</summary>
+  <summary>Clique para expandir o histórico</summary>
   <br>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wallax0x&theme=react-dark&hide_border=true&line=4FC3F7&point=29B6F6&area=true&area_color=4FC3F780" alt="Gráfico de Atividade" width="95%"/>
-</p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallax0x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallax0x&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://komarev.com/ghpvc/?username=wallax0x&color=blue&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
 </div>
+<br>
+
+<div align="center">
+  <a href="https://github.com/wallax0x">
+    <img src="https://img.shields.io/github/followers/wallax0x?label=Seguidores&style=for-the-badge&color=282a36&logoColor=white" alt="Seguidores" />
+  </a>
+  <a href="https://github.com/wallax0x">
+    <img src="https://img.shields.io/github/stars/wallax0x?label=Estrelas&style=for-the-badge&color=282a36&logoColor=white" alt="Estrelas" />
+  </a>
+  <a href="https://github.com/wallax0x?tab=repositories">
+    <img src="https://img.shields.io/github/repos/wallax0x?label=Repositórios&style=for-the-badge&color=282a36&logoColor=white" alt="Repositórios" />
+  </a>
+</div>
+
 </details>
+
 
 ---
 
